@@ -1,0 +1,17 @@
+-so mkdir e napravena papka kade sto se kreira git repository(git init)
+-so echo popolniv ime prezime i indeks vo README.md fajlot
+-so git add vo staging ja stavame
+-so git commit -m, pravime commit so poraka Initial commit
+-potoa git branch -M master
+-posocuvame na remote repoto so git remote add origin i url linkot
+-so git push -u origin master, pushnuvame na master
+-so touch komandata kreirame nov fajl SILab1.java
+-so git add go dodavame vo staging
+-pa so git nano pisuvame vo nego(go stavame kodot od vaseto repo kopiran)
+-pravime commit i go dodavame na grankata master
+-so git branch pravime 3 granki bug1 bug2 i bug3 na master
+-so checkout odime na grankite edna po edna ja dodavame papkata so add i ja editirame so nano da gi popravime greskite
+-pravime commit i push origin --all za site naednas
+-so merge gi povrzuvame prviot pa vtoriot bug
+-pravime rebase, pa merge za tretiot branch bug3
+-gi pushnuvame i na kraj --force za da se stavi na master

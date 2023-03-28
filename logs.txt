@@ -1,0 +1,47 @@
+$ git log
+commit 494be3615378fc78e98af331f0902d8f1d4e520d (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Georgina Ilievska <georginailievska33@gmail.com>
+Date:   Tue Mar 21 14:54:05 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 9f180d2082b975d968e0250496f735e0f93266b3
+Merge: c9e7461 be693bd
+Author: Georgina Ilievska <georginailievska33@gmail.com>
+Date:   Thu Mar 23 14:18:51 2023 +0100
+
+    bug2'
+
+    test
+    :x!
+    i
+
+commit be693bd503b73350c777851623dec62378e02cd4 (origin/bug2, bug2)
+Author: Georgina Ilievska <georginailievska33@gmail.com>
+Date:   Tue Mar 21 14:49:23 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+:
+commit 494be3615378fc78e98af331f0902d8f1d4e520d (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Georgina Ilievska <georginailievska33@gmail.com>
+Date:   Tue Mar 21 14:54:05 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 9f180d2082b975d968e0250496f735e0f93266b3
+Merge: c9e7461 be693bd
+Author: Georgina Ilievska <georginailievska33@gmail.com>
+Date:   Thu Mar 23 14:18:51 2023 +0100
+
+    bug2'
+
+    test
+    :x!
+    i
+
+commit be693bd503b73350c777851623dec62378e02cd4 (origin/bug2, bug2)
+Author: Georgina Ilievska <georginailievska33@gmail.com>
+Date:   Tue Mar 21 14:49:23 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+:
